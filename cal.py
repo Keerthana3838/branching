@@ -15,3 +15,6 @@ if __name__ == "__main__":
     num2 = int(input("Enter second number: "))
     print("Addition:", add(num1, num2))
     print("Subtraction:", subtract(num1, num2))
+
+add()
+subtract()
